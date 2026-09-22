@@ -156,7 +156,8 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [LinkedIn Job Search Assistant](https://chrome.google.com/webstore) - Various extensions for enhancing LinkedIn job search.
 - [Glassdoor Enhancement Suite](https://chrome.google.com/webstore) - Extensions that add salary and review data to job listings.
 
-## Tracking & Organization
+- [OpenResume Builder](https://github.com/xitanggg/open-resume) - Chrome extension for building resumes on LinkedIn, Indeed, and other job sites
+## Tracking & Organization- [Keel](https://github.com/KeelDev-tech/keel) - Open-core, self-hosted job-application autopilot that refuses to lie — automates discovery, tracking, and materials with a human gate on every application.
 
 - [Huntr](https://huntr.co/) - Visual kanban board for organizing your job search pipeline.
 - [Teal Job Tracker](https://www.tealhq.com/) - CRM for job seekers — track applications, contacts, and follow-ups.
@@ -173,6 +174,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
+- 
 
 ## Books & Guides
 
