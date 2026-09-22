@@ -156,7 +156,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [LinkedIn Job Search Assistant](https://chrome.google.com/webstore) - Various extensions for enhancing LinkedIn job search.
 - [Glassdoor Enhancement Suite](https://chrome.google.com/webstore) - Extensions that add salary and review data to job listings.
 
-- [OpenResume Builder](https://github.com/xitanggg/open-resume) - Chrome extension for building resumes on LinkedIn, Indeed, and other job sites
+
 ## Tracking & Organization
 - [Keel](https://github.com/KeelDev-tech/keel) - Open-core, self-hosted job-application autopilot that refuses to lie — automates discovery, tracking, and materials with a human gate on every application.
 
